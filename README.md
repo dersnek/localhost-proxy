@@ -1,5 +1,6 @@
 localhost-proxy
 =======================
+[![GitHub version](https://badge.fury.io/gh/dersnek%2Flocalhost-proxy.svg)](https://badge.fury.io/gh/dersnek%2Flocalhost-proxy)
 
 #### Listens to local network and re-routes requests to localhost. Useful for WSL.
 
